@@ -20,6 +20,7 @@ used to evaluate real-world digital communication systems.
 ## Project structure
 
 digital-comm-simulator/
+
 ├── modulation.py     # BPSK/QPSK modulation & demodulation functions
 
 ├── channel.py         # AWGN channel simulation
