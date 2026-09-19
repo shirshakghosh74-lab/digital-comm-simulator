@@ -21,9 +21,13 @@ used to evaluate real-world digital communication systems.
 
 digital-comm-simulator/
 ├── modulation.py     # BPSK/QPSK modulation & demodulation functions
+
 ├── channel.py         # AWGN channel simulation
+
 ├── simulate.py         # Main script: runs experiment, plots BER curve
+
 ├── requirements.txt    # Python dependencies
+
 └── README.md
 
 ## Setup instructions (step by step)
