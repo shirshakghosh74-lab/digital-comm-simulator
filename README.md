@@ -1,5 +1,5 @@
 # Digital Communication System Simulator (BPSK/QPSK over AWGN)
-
+![BER Performance Graph](ber_vs_snr.png)
 A Python-based simulation of digital modulation schemes (**BPSK** and **QPSK**)
 transmitted over an **AWGN (Additive White Gaussian Noise) channel**, with
 **Bit Error Rate (BER) vs Eb/N0** analysis — the standard performance metric
